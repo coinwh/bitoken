@@ -24,12 +24,10 @@
 
 ## 寻找开发者
 
-目前项目正在寻找志同道合的开发者一起参与开发。如果你对 AI 客户端应用感兴趣，欢迎加入一起完善这个项目！
+目前项目正在寻找志同道合的开发者一起参与开发。如果你对 AI 客户端应用感兴趣，欢迎联系我一起完善这个项目！
 
-## 如何参与
+## 联系方式
 
-1. Fork 本仓库
-2. 创建你的功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交你的更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 提交 Pull Request
+- **微信**: bqwwgede
+- **抖音**: 20110203baba
+- **QQ**: 3808312770
