@@ -10,7 +10,7 @@
 
 ## 界面预览
 
-### 主界面
+### Cherry Studio 界面
 
 <img src="https://github.com/user-attachments/assets/057a8801-19a6-4719-8e02-22bb4264f0d2" width="600" />
 
@@ -18,7 +18,7 @@
 
 <img src="https://github.com/user-attachments/assets/e184331e-374c-4556-b5ac-24f21303c787" width="600" />
 
-### 交互界面
+### 主界面
 
 <img src="https://github.com/user-attachments/assets/22366e52-5d19-4ae7-a7c3-852a7f458f52" width="600" />
 
