@@ -10,10 +10,6 @@
 
 ## 界面预览
 
-### Cherry Studio 界面
-
-<img src="https://github.com/user-attachments/assets/057a8801-19a6-4719-8e02-22bb4264f0d2" width="600" />
-
 ### 安装界面
 
 <img src="https://github.com/user-attachments/assets/e184331e-374c-4556-b5ac-24f21303c787" width="600" />
